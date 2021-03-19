@@ -1,0 +1,2 @@
+# app-ideas
+Beginner projects
